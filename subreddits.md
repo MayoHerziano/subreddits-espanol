@@ -28,7 +28,7 @@
 * [r/djangoes](http://reddit.com/r/djangoes): Subreddit del framework para Python Django
 * [r/role](http://reddit.com/r/role): Rol en español, sin moderador
 * [r/videojuego](http://reddit.com/r/videojuego): Gaming en español
-
+* [r/podemos] (http://www.reddit.com/r/podemos/): Subreddit del movimiento ciudadano español "podemos"
 
 *Subreddits de utilidad*
 
